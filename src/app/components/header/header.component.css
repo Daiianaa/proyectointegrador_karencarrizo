@@ -1,0 +1,8 @@
+div {
+background-color: rgba(0, 115, 255, 0.69);
+}
+
+app-social{
+    float: right;
+    margin-top: 25px;
+}
