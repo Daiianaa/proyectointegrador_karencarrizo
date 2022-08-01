@@ -1,0 +1,45 @@
+.row{
+    background-color: rgb(206,48,48);
+}
+div{
+    background-color: rgb(206,48,48);
+}
+h1, h3{
+    display: inline;
+}
+#ftrionegro{
+    width:8%;
+    left: 2%;
+    box-shadow: 3px 3px 3px grey; 
+    border-radius: 40%;
+}
+#ftcens{   
+    width:8%;
+    left: 2%;
+    box-shadow: 3px 3px 3px grey;
+    border-radius: 40%;
+}
+#ftacp{
+    width:8%;
+    left: 2%;
+    box-shadow: 3px 3px 3px black;
+    border-radius: 40%;
+}
+#ftarg{   
+     width:8%;
+    left: 2%;
+    box-shadow: 3px 3px 3px grey;
+    border-radius: 40%;
+}
+#ftipef{
+    width:8%;
+    left: 2%
+    ;
+    box-shadow: 3px 3px 3px cornflowerblue;
+    border-radius: 40%;
+}
+
+
+
+
+
