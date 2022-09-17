@@ -1,0 +1,22 @@
+.row{
+    background-color: rgb(206,48,48);
+    padding:20px;
+}
+#cir{
+    display: flex;
+}
+#cir2{
+    display: flex;
+}
+#cir3{
+    display: flex;
+}
+#cir4{
+    display: flex;
+}
+#cir5{
+    display: flex;
+}
+#cir6{
+    display: flex;
+}

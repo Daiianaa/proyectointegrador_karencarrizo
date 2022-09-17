@@ -1,0 +1,43 @@
+.row{
+    background-color: rgb(206,48,48);
+
+}
+div{
+    background-color: rgb(206,48,48);
+}
+h1, h3{
+    display: inline;
+}
+#ftbenji{
+    width: 8%;
+    left: 2%;
+    box-shadow: 3px 3px 3px beige;
+    border-radius: 40%;
+}
+#ftanik{
+    width: 8%;
+    left: 2%;
+    box-shadow: 3px 3px 3px black;
+    border-radius: 40%;
+}
+#ftgolosinas{
+    width:10%;
+    left: 2%;
+    box-shadow: 3px 3px 3px greenyellow;
+    border-radius: 40%;
+}
+#ftdistri{
+    width:6%;
+    left: 2%;
+    box-shadow: 3px 3px 3px blanchedalmond;
+    border-radius: 40%;
+}
+#fttendy{    
+    width:12%;
+    left: 2%;
+    box-shadow: 3px 3px 3px black;
+    border-radius: 40%;
+}
+
+
+
